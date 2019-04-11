@@ -4,6 +4,7 @@ type: "building block"
 categories:
   - 'Networking'
   - 'Runtimes & Programming'
+  - 'Another category'
 summary: "Accelerate compute-intensive workloads for security, encryption, authentication and compression"
 banner:
   - title: 'FPGAs provide scalable acceleration for a broad array of applications such as communications, data center, military, broadcast, automotive, and more'
