@@ -10,7 +10,7 @@ banner:
   - description: |
       Configure and manage these devices in Kubernetes* with the Intel FPGA Device Plugin
 github_url: "https://github.com/intel/intel-device-plugins-for-kubernetes/blob/master/cmd/fpga_plugin/README.md"
-architecture_diagram: "http://google.com/image.png"
+architecture_diagram: "https://via.placeholder.com/550"
 benefit_copy: 
   - title: "Accelerate compute-intensive workloads for security, encryption, authentication and compression with Intel® QuickAssist Technology (Intel® QAT), orchestrated by Kubernetes."
   - description: |
