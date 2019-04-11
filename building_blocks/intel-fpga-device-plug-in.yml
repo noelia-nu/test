@@ -8,7 +8,7 @@ summary: "Accelerate compute-intensive workloads for security, encryption, authe
 banner:
   - title: 'FPGAs provide scalable acceleration for a broad array of applications such as communications, data center, military, broadcast, automotive, and more'
   - description: |
-  Configure and manage these devices in Kubernetes* with the Intel FPGA Device Plugin
+      Configure and manage these devices in Kubernetes* with the Intel FPGA Device Plugin
 github_url: "https://github.com/intel/intel-device-plugins-for-kubernetes/blob/master/cmd/fpga_plugin/README.md"
 architecture_diagram: "http://google.com/image.png"
 benefit_copy: 
